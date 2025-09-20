@@ -1,12 +1,16 @@
-# 📊 Business Insight 360
-Business Insights 360 — a comprehensive solution designed to provide businesses with powerful, data-driven insights to fuel growth and efficiency.
+# 📊 Business Insights 360
+Business Insights 360 — an interactive Power BI dashboard bringing Finance, Sales, Marketing, Supply Chain and Executive KPIs all in one unified view.
 
 ## 🔍 Problem Statement:
-+ AtliQ Technologies, a rapidly growing hardware company has been struggling with declining performance in Latin America due to their reliance on Excel-based reporting for analytics which limited timely decision-making, KPI tracking and competitiveness. These project addresses this key business pr oblems by creating a comprehensive dashboard solution.
-
++ AtliQ Technologies, a rapidly growing hardware company has been struggling with declining performance in Latin America due to their reliance on Excel-based reporting for analytics which limited timely decision-making, KPI tracking and competitiveness. 
 
 ## 🎯 Project Objective:
 + These project addresses key business problems by creating a comprehensive dashboard solution. Which enables; real-time tracking, scenario analysis and decision making. Also, Centralize and automate business reporting. 
++ Extract and Merged Excel/CSV data using MySQL database into a data model.
++ Clean and standardized the data in Power Query for accurate reporting.
++ Design Star snowflake schema for optimized data modelling and automated data refresh with Power BI service.
++ Create calculated columns, DAX measures for key KPIs.
++ Applied best practices in storytelling with data, drill-throughs, KPI cards, slicers and toggles to make the dashboard interactive.
 
 
 ## 🛠️ Tools and Skills Used: 
@@ -15,14 +19,6 @@ Business Insights 360 — a comprehensive solution designed to provide businesse
 + Power BI Desktop: Interactive Dashboard and Visualization
 + Power Query: ETL workflows, Data Cleaning and Transformation
 + DAX: Advanced calculation for metrics, building measures
-
-
-## 📌 Method
-+ To build a unified Power BI solution, Extracted and Merged Excel/CSV data using MySQL database into a data model.
-+ Cleaned and standardized the data in Power Query for accurate reporting.
-+ Designed Star snowflake schema for optimized data modelling and automated data refresh with Power BI service.
-+ Created calculated columns, DAX measures for key KPIs.
-+ Applied best practices in storytelling with data, drill-throughs, KPI cards, slicers and toggles to make the dashboard interactive.
 
 
 ## 📝Dashboard Highlights
