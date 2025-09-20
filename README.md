@@ -6,8 +6,8 @@ Business Insights 360 — an interactive Power BI dashboard bringing Finance, Sa
 
 ## 🎯 Project Objective:
 + These project addresses key business problems by creating a comprehensive dashboard solution. Which enables; real-time tracking, scenario analysis and decision making. Also, Centralize and automate business reporting. 
-+ Extract and Merged Excel/CSV data using MySQL database into a data model.
-+ Clean and standardized the data in Power Query for accurate reporting.
++ Extract and Merge Excel/CSV data using MySQL database into a data model.
++ Clean and standardize the data in Power Query for accurate reporting.
 + Design Star snowflake schema for optimized data modelling and automated data refresh with Power BI service.
 + Create calculated columns, DAX measures for key KPIs.
 + Applied best practices in storytelling with data, drill-throughs, KPI cards, slicers and toggles to make the dashboard interactive.
